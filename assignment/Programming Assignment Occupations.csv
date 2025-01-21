@@ -1,9 +1,21 @@
-﻿Job Title,2023 Median Salary,2023 Medican Hourly,Typical Entry-Level Education,Number of Jobs 2023,Job Outlook 2023-33,Work Environment
-Data Scientist,108020,51.93,Bacehlor,202900,36%,Office
-Anesthesiologist,339470,163.21,Doctoral,36100,4%,Clinical or non-clinical
-Pediatrician,205860,98.97,Doctoral,37700,2%,Clinical or non-clinical
-Obstetricians and gynecologist,278660,133.97,Doctoral,21300,3%,Clinical or non-clinical
-Computer Programmer,99700,47.94,Bacehlor,139400,-10%,Office
-Mathematician and Statistician,104860,50.41,Master,34800,11%,Office
-Actuary,120000,57.69,Bachelor,30200,22%,Office (some travel)
-Financial Analyst,99890,48.02,Bachelor,404800,9%,Office
+﻿job,pay,edu,exp,train,n_employment,outlook,change_employment,top_places,physical_work_environment,social_work_environment,,,
+Data Scientist,108020,BS,None,None,202900,36,73100,DC,Office,NA,,,
+Anesthesiologist,339470,MD/DO,None,Internship/residency,36100,4,1500,Massachusetts,Clinical or non-clinical,Group,,Job title,job
+Pediatrician,205860,MD/DO,None,Internship/residency,37700,2,800,Hawaii,Clinical or non-clinical,Group,,2023 Median Salary,pay
+Obstetricians and gynecologist,278660,MD/DO,None,Internship/residency,21300,3,700,Hawaii ,Clinical or non-clinical,Group,,Typical Entry-Level Education,edu
+Computer Programmer,99700,BS,None,None,139400,-10,-13400,DC,Office or home,NA,,Work Experience in a Related Occupation,exp
+Statistician,104110,MS,None,None,32400,12,3800,Maryland,Office or home,Team,,On-the-job Training,train
+Actuary,120000,BS,None,Long-term on-the-job training,30200,22,6600,Connecticut,Office some travel,Team,,"Number of Jobs, 2023",n_employed
+Financial and Investment Analyst ,99010,BS,None,None,347400,9,33100,Delaware,Office some travel,NA,,"Job Outlook, 2023-33",outlook
+,,,,,,,,,,,,"Employment Change, 2023-33",change_employment
+,,,,,,,,,,,,"Click State/Area tab, then the job name, then scroll to the second graph",top_places
+,,,,,,,,,,,,"Click work environment tab, find info on remote/office, teams or alone",physical_work_environment
+,,,,,,,,,,,,"Click work environment tab, find info on remote/office, teams or alone",social_work_environment
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
